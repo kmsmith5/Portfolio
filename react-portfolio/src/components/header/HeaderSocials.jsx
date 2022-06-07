@@ -4,7 +4,7 @@ import {FaGithub} from 'react-icons/fa'
 
 function HeaderSocials() {
   return (
-    <div className='header_socials'>
+    <div className='header__socials'>
         <a href='https://www.linkedin.com/in/kevin-michael-smith-83157b182/' target='_blank'><BsLinkedin/></a>
         <a href='https://github.com/kmsmith5' target='_blank'><FaGithub/></a>
     </div>
