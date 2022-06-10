@@ -39,7 +39,7 @@ body {
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    background: radial-gradient(circle, blue, red);
+    background: radial-gradient(circle, blue, black);
 }
 
 .container {
@@ -61,7 +61,6 @@ h1 {
 
 section {
     margin-top: 8rem;
-    height: 100vh;
 }
 
 section > h2, 
