@@ -83,7 +83,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>Ruby in Rails</h4>
+                <h4>Ruby on Rails</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
